@@ -1,0 +1,1 @@
+This github repo only created for share the learning rxperience of  he fetching the data from live NSE trading data with API . Some idea to gene idea to design the data bases specialy hot layer and cold layer which is alligned to trading strategy  
